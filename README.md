@@ -38,6 +38,12 @@ Power BI
 Microsoft Excel
 Kaggle Dataset
 
+
+📂 Dataset Source
+
+Kaggle Supermarket Sales Dataset
+<img width="1920" height="1021" alt="image" src="https://github.com/user-attachments/assets/8dbd48f0-14a7-4d97-a5b6-2737746ee314" />
+
 📸 Dashboard Preview
 
 <img width="635" height="389" alt="sales anlysis" src="https://github.com/user-attachments/assets/8cf073b6-7fc6-4680-a107-79641684bac7" />
@@ -50,9 +56,6 @@ Found peak sales time periods
 Analyzed profit distribution across different branches
 Helped understand customer purchasing behavior
 
-📂 Dataset Source
-
-Kaggle Supermarket Sales Dataset
 
 👩‍💻 Author
 
